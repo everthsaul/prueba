@@ -1,3 +1,5 @@
-#Administracion de servidores
-*pruebas
-*otros
+#DOCUMENTACION
+**Indice**
+*Instalacion
+*configuracion
+*Otros
